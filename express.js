@@ -22,3 +22,5 @@ const downloadURL = (url, onend) => {
 }
 
 module.exports = router
+
+print("Finished")
